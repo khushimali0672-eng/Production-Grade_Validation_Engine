@@ -1,5 +1,5 @@
 """
-Product Validation Dashboard - Streamlit Application (Simplified)
+Product Grade Validation Dashboard - Streamlit Application (Simplified)
 
 A minimal monitoring dashboard for ML model performance.
 Supported Projects: Fraud Detection, Customer Churn, Loan Approval
